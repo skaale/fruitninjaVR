@@ -1,0 +1,3 @@
+# fruitninjaVR
+
+For teaching porpose 

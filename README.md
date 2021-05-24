@@ -1,3 +1,3 @@
 # fruitninjaVR
 
-For teaching porpose 
+ teaching execise in VR 
